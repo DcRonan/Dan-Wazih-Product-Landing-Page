@@ -1,4 +1,4 @@
-<h1> Product landing Page <h/1>
+<h1> Product landing Page </h1>
 
 Link to webpage: https://dcronan.github.io/Dan-Wazih-Product-Landing-Page/
 
